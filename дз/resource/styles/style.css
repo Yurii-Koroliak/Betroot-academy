@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: linear-gradient(90deg, #287564 37%, #909090 100%);
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: 250px;
+    margin-left: 20px;
+}
+
+.about {
+    display: inline-block;
+}
+
+.education {
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+ul {
+    padding-left: 40px;
+}
+
+.expierence {
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+.exp-text {
+    margin-left: 50px;
+}
+
+.another {
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+.hobby {
+    margin-left: 50px;
+}
